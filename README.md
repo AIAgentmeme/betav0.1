@@ -3,7 +3,7 @@ First AI Agent Meme for UBI and Charity, with vision for One Earth, One Communit
 # AI Agent Crypto Bot Trading Project
 
 ## Project Overview
-This project is an AI-based cryptocurrency trading bot, aiming to learn and share the application of AI in the trading field through a simulated trading environment. Please note that this project is only for learning and research purposes and is not recommended for actual trading.
+This project is an AI-based cryptocurrency trading bot, aiming to learn and share the application of AI in the trading field through a simulated trading environment. Please note that this project is only for learning and research purposes and is not recommended for actual trading before the alpha version released, now in staging phase.
 
 ## Project Structure
 - **Valuation Agent**: Responsible for evaluating the value of cryptocurrencies.
